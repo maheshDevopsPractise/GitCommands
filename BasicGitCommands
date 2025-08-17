@@ -1,1 +1,2 @@
-Basic GIT Commands
+-> To Clone the Branch Direclty.
+git clone -b <brnachName> <repoURL>
