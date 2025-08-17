@@ -1,2 +1,14 @@
 -> To Clone the Branch Direclty.
 git clone -b <brnachName> <repoURL>
+
+-> To Create a new branch and push the changes to new branch 
+   1) switch to feature branch by using git bash
+
+   2) Execute below command
+      git checkout -b <new-branch-name>
+
+   3) git add .
+
+   4) git commit -m "Initial Changes"
+
+   5) git push -u origin <new-branch-name>
